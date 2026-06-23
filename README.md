@@ -2,6 +2,8 @@
 
 A simple TIcTacToe game implementation in Java.
 
+Update from GitHub.
+
 ## Features
 - Console-based gameplay
 - Two-player support
